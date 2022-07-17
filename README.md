@@ -1,4 +1,13 @@
-Hola 👋 Mi nombre es Juan Huete ============================== Estudiante de ingenieria de sistema ------- ---------------------------- He estado aprendiendo a programar durante mi vida como universitario y escogió experiencia en diferente lenguaje de programación. * 🌍 Vivo en Nicaragua * ✉️ Puedes contactarme en [juanhuete@gmail.com](mailto:juanhuete@gmail.com)[](mailto:juanhuete@gmail.com) * 🧠 estoy aprendiendo PHP * 🤝 Estoy abierto a colaborar en En proyecto interesante tanto como programador o diseñador * ⚡ Java es dios
+Hola 👋 Mi nombre es Juan Huete
+============================== 
+Estudiante de ingenieria de sistema 
+------- ---------------------------- 
+He estado aprendiendo a programar durante mi vida como universitario y escogió experiencia en diferente lenguaje de programación. 
+* 🌍 Vivo en Nicaragua 
+* ✉️ Puedes contactarme en [juanhuete@gmail.com](mailto:juanhuete@gmail.com)[](mailto:juanhuete@gmail.com) 
+* 🧠 estoy aprendiendo PHP 
+* 🤝 Estoy abierto a colaborar en En proyecto interesante tanto como programador o diseñador
+* ⚡ Java es dios
 
 ### Habilidades
 
